@@ -8,8 +8,8 @@ Interesting part I observed while working on this project was how working on one
 
 ## Installation
 
-Browser to open the link: <add link>
-Add screenshot of the link
+Browser to open the link: https://nehaps29.github.io/Horiseon_optimization/
+
 
 ## Credits
 
